@@ -1,9 +1,9 @@
 ## <h1>Relógio Digital</h1>
 <h2>Projeto desenvolvido para praticar as ferramentas de HTML e CSS.</h2>
 
-<img align="center" alt="Efeito Parallax com CSS" src="">
+<img align="center" alt="Efeito Parallax com CSS" src="https://i.postimg.cc/DzWcZf94/efeito-parallax-css.png">
 
-[🔗Clique aqui para acessar o projeto]()
+[🔗Clique aqui para acessar o projeto](https://davivieira10.github.io/efeito-parallax-css/)
 
 <b>As ferramentas utilizadas foram:</b>
 <div style="display: inline_block"><br>
