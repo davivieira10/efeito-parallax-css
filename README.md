@@ -1,7 +1,7 @@
 ## <h1>Efeito Parallax com CSS</h1>
 <h2>Projeto desenvolvido para praticar as ferramentas de HTML e CSS.</h2>
 
-<img align="center" alt="Efeito Parallax com CSS" src="https://i.postimg.cc/DzWcZf94/efeito-parallax-css.png">
+<img align="center" alt="Efeito Parallax com CSS" src="https://i.postimg.cc/xC2b20n2/efeito-parallax-css.jpg">
 
 [🔗Clique aqui para acessar o projeto](https://davivieira10.github.io/efeito-parallax-css/)
 
